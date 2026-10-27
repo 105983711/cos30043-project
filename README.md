@@ -69,6 +69,7 @@ This project has not been deployed to Mercury. Do not submit a localhost address
 | `scripts`        | Mercury production packaging                                     |
 | `tests`          | Behavioral backend integration tests                             |
 | `docs`           | Requirement mapping, responsibilities, deployment and validation |
+| `docs/reference` | Original group agreement supplied by the project team             |
 
 No third-party image downloads or generated bitmap assets are required. Illustrations are project-owned SVG components. Dependencies are locked in `package-lock.json`.
 
